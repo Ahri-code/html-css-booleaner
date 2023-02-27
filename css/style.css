@@ -1,9 +1,10 @@
 * {
     margin: 0;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .center {
-    width: 85%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -15,6 +16,23 @@ header{
     background-color: #4ea0ff;
 }
 
-img {
+header img {
     width: 200px;
+}
+
+h1 {
+    margin-top: 20px;
+    font-size: 40px;
+}
+
+.gray {
+    color: #7d7d7d;
+}
+
+.gray span{
+    color: #54bdea;
+}
+
+main img{
+    margin-top: 10px;
 }
