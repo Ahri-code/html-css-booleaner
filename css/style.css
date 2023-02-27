@@ -4,7 +4,7 @@
 }
 
 .center {
-    width: 80%;
+    width: 70%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -35,4 +35,26 @@ h1 {
 
 main img{
     margin-top: 10px;
+}
+
+article *:not(li) {
+    margin-top: 15px;
+}
+
+table {
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.blue {
+    background-color: #b1e5f2;
+}
+
+#long {
+    width: 49%;
 }
