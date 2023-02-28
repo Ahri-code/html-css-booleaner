@@ -41,6 +41,10 @@ article *:not(li) {
     margin-top: 15px;
 }
 
+ul {
+    padding-left: 18px;
+}
+
 table {
     text-align: left;
     border-collapse: collapse;
